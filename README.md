@@ -11,3 +11,4 @@ In context, your parents are busy workers and they get home really late. They al
 .ubuntu windows
 
 # User Story
+. As a user, I would like to see various news sources on the homepage of the application.
